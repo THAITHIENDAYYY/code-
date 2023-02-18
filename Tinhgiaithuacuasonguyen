@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tinhgiaithuacuasonguyen {
+public class Tinhgiaithuacuasonguyen {
     public static void main(String[] args) {
         // Nhập số nguyên dương n
         Scanner scanner = new Scanner(System.in);
